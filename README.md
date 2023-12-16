@@ -1,5 +1,3 @@
-Certainly! Here's some information you can include in the README file for the CCMT (Code Complexity Measurement Tool):
-
 # Code Complexity Measurement Tool (CCMT)
 
 ## Overview
