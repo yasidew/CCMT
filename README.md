@@ -10,15 +10,15 @@ The Code Complexity Measurement Tool (CCMT) is a Java-based utility designed to 
 
 CCMT calculates code complexity using various metrics, including:
 
-- Size of the executable statement (Sj)
+- Size of the executable statement (S)
 - Type of control structure (Wc)
 - Nesting level of control structure (Wn)
 - Inheritance level of statements (Wi)
-- Recursion complexity (Cr)
-- System input-output statements complexity (Ci)
-- Try-catch complexity (Ct)
-- Compound conditional statements complexity (Cc)
-- Array declaration complexity (Ca)
+- Recursion complexity (Wrc)
+- System input-output statements complexity (Wio)
+- Try-catch complexity (Wtc)
+- Compound conditional statements complexity (Wcc)
+- Array declaration complexity (Wad)
 
 ### 2. Supported Control Structures
 
